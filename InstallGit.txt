@@ -19,6 +19,9 @@ working with file in git:
 8. git push -u origin master	: push the files onto Github online
 
 After changing files:
-9. git status:		to see the modified file
+9. git status:			:to see the modified file
 
+After create a new files in Github online account
+e.g. newfile -> Newfolder/ -> filename
+10. git pull origin master       :update in computer
 

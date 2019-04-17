@@ -1,4 +1,24 @@
 1. Download Git
 2. Create GitHub Account
+3. Create a new Respository
+4. Create a folder of Git
 
 https://www.youtube.com/watch?v=J_Clau1bYco
+
+Some commands in Git:
+1. cd c/ move to C:/Driver
+2. cd Git(folder) move to Git folder
+3. git config --global user.name "lamngoctam"
+4. git config --global user.email lamngoctam@gmail.com
+
+working with file in git:
+
+5. git add filename:	
+6. git status:		check status of file
+7. git commit -m "comments for this action" Filename
+8. git push -u origin master	: push the files onto Github online
+
+After changing files:
+9. git status:		to see the modified file
+
+

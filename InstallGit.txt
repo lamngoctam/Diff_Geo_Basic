@@ -1,27 +1,29 @@
+https://www.youtube.com/watch?v=J_Clau1bYco
 1. Download Git
 2. Create GitHub Account
 3. Create a new Respository
-4. Create a folder of Git
+4. Create a folder		
 
-https://www.youtube.com/watch?v=J_Clau1bYco
-
-Some commands in Git:
-1. cd c/ move to C:/Driver
-2. cd Git(folder) move to Git folder
+Some commands to begin with git
+1. cd c:/ 			(ove to C:/Driver)
+2. cd Namefolder 		(move to folder named Git)
 3. git config --global user.name "lamngoctam"
 4. git config --global user.email lamngoctam@gmail.com
+5. git clone URL		(to clone the folder form Github account-e.g. https://github.com/lamngoctam/Diff_Geo_Basic.git)
 
 working with file in git:
-
-5. git add filename:	
-6. git status:		check status of file
-7. git commit -m "comments for this action" Filename
-8. git push -u origin master	: push the files onto Github online
+1. Upload the file to Githib account:
+	git add FileName
+2. Check the status:	
+	git status		
+3. Commit and uploadthe changed file
+	git commit -m "comments for this action" Filename
+	git push -u origin master	 (push the files onto Github online)
 
 After changing files:
-9. git status:			:to see the modified file
+	git status			(to see the modified file)
 
 After create a new files in Github online account
 e.g. newfile -> Newfolder/ -> filename
-10. git pull origin master       :update in computer
+	git pull origin master       (update in computer)
 

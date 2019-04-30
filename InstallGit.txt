@@ -11,16 +11,15 @@ Some commands to begin with git
 4. git config --global user.email lamngoctam@gmail.com
 5. git clone URL		(to clone the folder form Github account-e.g. https://github.com/lamngoctam/Diff_Geo_Basic.git)
 
-working with file in git:
+Working with file in git
 1. Upload the file to Githib account:
 	git add FileName
 2. Check the status:	
 	git status		
 3. Commit and uploadthe changed file
 	git commit -m "comments for this action" Filename
-	git push -u origin master	 (push the files onto Github online)
+	git push -u origin master	(push the files onto Github online)
 
-After changing files:
 	git status			(to see the modified file)
 
 After create a new files in Github online account
